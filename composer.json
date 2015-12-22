@@ -1,5 +1,5 @@
 {
-    "name": "flarum/tags",
+    "name": "fan/tags",
     "description": "Organize discussions into a hierarchy of tags and categories.",
     "type": "flarum-extension",
     "keywords": ["discussion"],
@@ -24,11 +24,11 @@
     },
     "extra": {
         "flarum-extension": {
-            "title": "Tags",
+            "title": "Fan Tags",
             "icon": {
                 "name": "tags",
-                "backgroundColor": "#F28326",
-                "color": "#fff"
+                "backgroundColor": "#Ffffff",
+                "color": "#ff0000"
             }
         }
     }
